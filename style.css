@@ -1,0 +1,97 @@
+.main {
+  background-color:white;
+  height:400px;
+  margin-top: 130px;
+  border-radius: 25px;
+  border: 1px solid black;
+  box-shadow: 10px 10px white;
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.section-1 {
+  margin-top: 50px;
+  padding-left: 20px;
+}
+
+.section-1-heading {
+  padding-top: 20px;
+  font-weight: 400;
+}
+
+.section-1-para {
+  padding-top: 10px;
+  font-weight: 400;
+}
+
+.section-2 {
+  padding-top: 110px;
+  padding-left: 5px;
+}
+
+input {
+  height: 50px;
+  width: 550px;
+  padding-left: 20px;
+  font-weight: 450;
+}
+
+input:hover {
+  border-color: rgb(11, 11, 224);
+}
+
+input:active {
+  border-color: rgb(11, 11, 224);
+}
+
+.placeholder {
+  color: black;
+  text-align: center;
+}
+
+.section-2-span {
+  color: rgb(62, 62, 246);
+  margin-top: 10px;
+  font-weight: 500;
+}
+
+.section-2-span:hover {
+  background-color: rgb(225, 221, 251);
+  border-radius: 10px;
+}
+
+.section-2-spaan {
+  margin-top: 200px;
+}
+
+.button-1 {
+  background-color: transparent;
+  color: rgb(62, 62, 246);
+  height: 45px;
+  width: 15 0px;
+  border: 0px solid white;
+  border-radius: 20px;
+  font-size: 15px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.button-1:hover {
+  background-color: rgb(225, 221, 251);
+}
+
+.button-2 {
+  background-color: rgb(62, 62, 246);
+  color: white;
+  height: 45px;
+  width: 100px;
+  border: 0px solid rgb(62, 62, 246);
+  border-radius: 20px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.button-2:hover {
+  background-color: rgb(7, 7, 208);
+}
